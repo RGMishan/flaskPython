@@ -9,3 +9,6 @@ print(f"i is {b}")
 
 n = None
 print(f"n is {n}")
+
+mult = 3**2**3
+print(f"this is power of power {mult}")
