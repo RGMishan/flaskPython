@@ -1,3 +1,4 @@
+#In sets element shoud be unique
 
 s = set()
 
